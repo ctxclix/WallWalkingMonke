@@ -14,9 +14,9 @@ The max distance from the wall is configurable in the .cfg file which generates 
 **Current Version:**
 </br> 1.0.0.0
 
-**Latest updates:**
+**Latest Updates:**
 </br> Added this repo
 
-**Planned updates:**
+**Planned Updates:**
 </br> More control over the mod
 </br> Maybe a toggleable indication system
