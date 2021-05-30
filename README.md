@@ -1,7 +1,7 @@
 # MonkeWallWalk
 A mod for Gorilla Tag that allows you to walk on walls with the palms of your hand.
 
-https://media.giphy.com/media/dt5pb7sZWUCBC8LI0M/giphy.gif
+![](WallWalk.gif)
 
 To use face the palm of your hands to the wall you want to walk up and it will pull you towards it.
 
