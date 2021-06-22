@@ -15,7 +15,7 @@ The max distance from the wall is configurable in the .cfg file which generates 
 </br> 1.0.0.0 - soon to be 2.0.0.0
 
 **Latest Updates:**
-</br> Added this repo
+</br> Added the initial release
 
 **Planned Updates:**
 </br> 2.0 version
